@@ -56,11 +56,3 @@ result = run_main(fullfile(pwd, 'submission', 'results', 'main'), false);
 ```
 
 For the Simscape model, follow the separate [run guide](submission/simulation/README.md). It requires Simulink, Simscape and Simscape Multibody.
-
-## Validation and remaining work
-
-The existing symbolic script checks slider travel and disc-center radius. MATLAB execution and Simscape validation remain pending; see [verification notes](submission/docs/verification.md). Add team details, actual simulation output and prototype evidence before submission. The ideal model assumes rigid parts, parallel shafts, perpendicular slides, and no clearance; it does not calculate forces or strength.
-
-## Reference
-
-Repository presentation and the one-command workflow were inspired by [Beam004MECU/Cam-Follower-Symbolic](https://github.com/Beam004MECU/Cam-Follower-Symbolic). The Oldham equations and added runner use this project's mechanism. Reference source code and media were not copied. See [adaptation notes](submission/docs/reference-adaptation.md).
