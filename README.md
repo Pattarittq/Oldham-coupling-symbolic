@@ -1,4 +1,4 @@
-# Mechanical Engineering Project Template
+# Oldham coupling Mechanism
 
 A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project’s mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
 
