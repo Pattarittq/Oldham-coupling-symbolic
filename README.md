@@ -40,19 +40,4 @@ C=\left(\frac e2(1+\cos2\theta),\frac e2\sin2\theta\right),
 
 The ideal output/input speed ratio is 1:1. At e = 8 mm, each slider has 16 mm peak-to-peak travel and the disc center follows a 4 mm radius circle twice per input revolution. At 6 rpm, one revolution takes 10 s. These are analytical predictions.
 
-## Run
 
-Use MATLAB with Symbolic Math Toolbox. Open `RUN_ALL.m` and click Run, or execute:
-
-```matlab
-run('RUN_ALL.m')
-```
-
-Outputs are saved in `submission/results/main/`: `Render.png`, `Kinematics.fig`, `analytical_samples.csv`, and `Mechanism.avi`. The video is a schematic analytical animation. MATLAB needs a graphical session for video capture. To export plots and data without video:
-
-```matlab
-addpath('submission/simulation')
-result = run_main(fullfile(pwd, 'submission', 'results', 'main'), false);
-```
-
-For the Simscape model, follow the separate [run guide](submission/simulation/README.md). It requires Simulink, Simscape and Simscape Multibody.
