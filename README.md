@@ -4,7 +4,7 @@
 
 Symbolic position, velocity and acceleration analysis of an Oldham coupling connecting parallel shafts with an 8 mm offset at 6 rpm.
 
-![Oldham coupling kinematic diagram](Oldham_kinematic_diagram.png)
+![Oldham coupling kinematic diagram](Oldham_kinematic.png)
 
 ## Deliverables
 
