@@ -14,7 +14,6 @@ Symbolic position, velocity and acceleration analysis of an Oldham coupling conn
 | [Mechanism.m](Mechanism.m) | Standalone symbolic analysis for Part II |
 | [Mechanism.avi](Mechanism.avi) | Visualise mechanism and position/velocity/acceleration graph |
 | [Oldham_Coupling.slx](Oldham_Coupling.slx) | Existing Simscape Multibody model; simulation pending |
-| [Submission package](submission/README.md) | Self-contained package with Parts I-IV and evidence checklist |
 
 ## Mechanism model
 
