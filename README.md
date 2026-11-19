@@ -1,6 +1,6 @@
-# Oldham coupling Mechanism
-
-A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project’s mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
+# Oldham Coupling Mechanism
+Pattarit Machomsomboon 6630243921
+2103-322 Design of Mechanism · Symbolic Mathematics
 
 ## Getting started
 
